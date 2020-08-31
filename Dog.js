@@ -1,1 +1,3 @@
-Dog.js
+function Dog(){
+	
+}
